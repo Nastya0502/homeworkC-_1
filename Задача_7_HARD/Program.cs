@@ -6,7 +6,7 @@
 
 Console.Write("Введите любое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-if (num>10)
+if (num>9)
 {
     while (num>99)
     {
